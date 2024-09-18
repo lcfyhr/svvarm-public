@@ -1,6 +1,23 @@
-# SVVARM
+<h2 align="center">
+🐝 SVVARM 🐝
+</h2>
 
-Welcome to **SVVARM**, the super very versatile automation runnining machine for deploying your swarm of AI automated workers! SVVARM is designed to help you automate complex tasks seamlessly, allowing you to focus on what really matters. Whether you're managing infrastructure, orchestrating workflows, or simply automating repetitive processes, SVVARM has you covered.
+<p align="center">
+  <p align="center">Build and deploy a swarm of automated workers!</p>
+</p>
+<p align="center">
+  <a href="https://svvarm.tech/" target="_blank">
+      <img src="https://img.shields.io/badge/playground-ffb800" alt="Playground">
+  </a>
+  <a href="https://discord.com/invite/PjXFHGc5GC" target="_blank">
+    <img src="https://img.shields.io/discord/1131844815005429790?logo=discord">
+  </a>
+
+</p>
+
+https://github.com/user-attachments/assets/342cf18b-e6ae-4998-9c2b-f26c0a343c86
+
+[**SVVARM**](https://svvarm.tech/) is a super valuable, versatile automation runnining machine for deploying your swarm of AI automated workers! SVVARM is designed to help you **automate complex tasks seamlessly**, allowing you to focus on what really matters. Whether you're managing infrastructure, orchestrating workflows, or simply automating repetitive processes, SVVARM has you covered.
 
 ## Features
 
