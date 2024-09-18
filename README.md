@@ -6,7 +6,7 @@
   <p align="center">Build and deploy a swarm of automated workers!</p>
 </p>
 <p align="center">
-  <a href="https://svvarm.tech/" target="_blank">
+  <a href="https://svvarm.tech/playground" target="_blank">
       <img src="https://img.shields.io/badge/playground-ffb800" alt="Playground">
   </a>
   <a href="https://discord.com/invite/PjXFHGc5GC" target="_blank">
