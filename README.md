@@ -23,6 +23,7 @@ https://github.com/user-attachments/assets/342cf18b-e6ae-4998-9c2b-f26c0a343c86
 
 - **Intuitive Task Automation**: Define and manage complex tasks with a user-friendly interface.
 - **Multi-Platform Support**: Run tasks across different environments, including cloud, local machines, and containers.
+- **Endless Integrations**: An endless amount integrations so you can connect to all your apps.
 - **Simple Triggers**: Trigger automations from emails, messages, slack, API, or via the UI.
 - **Customizable Nodes**: Extend functionality with custom nodes.
 - **Error Handling & Logging**: Advanced logging and error handling mechanisms to ensure reliable automations.
@@ -31,7 +32,7 @@ https://github.com/user-attachments/assets/342cf18b-e6ae-4998-9c2b-f26c0a343c86
 
 ## See Automation in Action! (DEMO)
 
-Try sending an email to **svvarmbot@gmail.com** with a copy of your resume.
+Try sending an email to **'svvarmbot@gmail.com'** with a copy of your resume and the subject **'Resume'**.
 
 ## Open Source
 
