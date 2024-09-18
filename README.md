@@ -15,7 +15,7 @@
 
 </p>
 
-https://github.com/user-attachments/assets/342cf18b-e6ae-4998-9c2b-f26c0a343c86
+https://github.com/user-attachments/assets/b58f64d5-d9eb-4c59-aed8-cda4be5729d3
 
 [**SVVARM**](https://svvarm.tech/) is a super valuable, versatile automation runnining machine for deploying your swarm of AI automated workers! SVVARM is designed to help you **automate complex tasks seamlessly**, allowing you to focus on what really matters. Whether you're managing infrastructure, orchestrating workflows, or simply automating repetitive processes, SVVARM has you covered.
 
